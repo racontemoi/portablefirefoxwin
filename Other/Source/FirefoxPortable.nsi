@@ -26,7 +26,7 @@
 !define WEBSITE "PortableApps.com/FirefoxPortable"
 !define DEFAULTEXE "firefox.exe"
 !define DEFAULTAPPDIR "firefox"
-!define LAUNCHERLANGUAGE "English"
+!define LAUNCHERLANGUAGE "French"
 
 ;=== Program Details
 Name "${PORTABLEAPPNAME}"

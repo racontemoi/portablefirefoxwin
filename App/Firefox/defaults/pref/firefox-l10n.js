@@ -1,5 +1,5 @@
-//@line 36 "e:\builds\moz2_slave\win32_build\build\browser\locales\en-US\firefox-l10n.js"
+//@line 36 "e:\builds\moz2_slave\win32_repack\build\releases\l10n-mozilla-1.9.1\fr\browser\firefox-l10n.js"
 
-//@line 38 "e:\builds\moz2_slave\win32_build\build\browser\locales\en-US\firefox-l10n.js"
+//@line 38 "e:\builds\moz2_slave\win32_repack\build\releases\l10n-mozilla-1.9.1\fr\browser\firefox-l10n.js"
 
-pref("general.useragent.locale", "en-US");
+pref("general.useragent.locale", "fr");
